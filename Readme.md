@@ -43,6 +43,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### C/C++
 
 * [BCPP](http://invisible-island.net/bcpp/) - indents C/C++ source programs, replacing tabs with spaces or the reverse.
+* [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - Automatic formatting for C++.
 * [GNU Indent](http://www.gnu.org/software/indent/) -  Unix utility that reformats C and C++ code in a user-defined indent style and coding style. GNU style is used by default.
 * [GreatCode](http://sourceforge.net/projects/gcgreatcode/) - C/C++ source code beautifier that is now fully open source.
 
