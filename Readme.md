@@ -76,9 +76,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 <a name="java" />
 #### Java
 
+* [Google Java Format](https://github.com/google/google-java-format) - google-java-format is a program that reformats Java source code to comply with Google Java Style.
 * [JALOPY](http://notzippy.github.io/JALOPY2-MAIN/) - Source code formatting tool for the Sun Java Programming Language.
 * [Jindent](http://www.jindent.com/) - Commercial source code formatter for the programming languages Java, C and C++
-* [Google Java Format](https://github.com/google/google-java-format) - google-java-format is a program that reformats Java source code to comply with Google Java Style.
 
 <a name="javascript" />
 #### JavaScript
