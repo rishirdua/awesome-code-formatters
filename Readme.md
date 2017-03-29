@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Artistic Styler](http://astyle.sourceforge.net/) - Source code indenter, formatter, and beautifier for the C, C++, C# and Java programming languages.
 * [Uncrustify](http://uncrustify.sourceforge.net/) - Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+* [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - Automatic formatting for C, C++, Java, JavaScript, ObjectiveC and Protobuf.
 
 <a name="language-specific" />
 
@@ -43,7 +44,6 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### C/C++
 
 * [BCPP](http://invisible-island.net/bcpp/) - indents C/C++ source programs, replacing tabs with spaces or the reverse.
-* [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - Automatic formatting for C++.
 * [GNU Indent](http://www.gnu.org/software/indent/) -  Unix utility that reformats C and C++ code in a user-defined indent style and coding style. GNU style is used by default.
 * [GreatCode](http://sourceforge.net/projects/gcgreatcode/) - C/C++ source code beautifier that is now fully open source.
 
