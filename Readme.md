@@ -36,7 +36,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Uncrustify](http://uncrustify.sourceforge.net/) - Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - Automatic formatting for C, C++, Java, JavaScript, ObjectiveC and Protobuf.
 
-<a name="language-specific" />
+## Language Specific
 
 #### C/C++
 
