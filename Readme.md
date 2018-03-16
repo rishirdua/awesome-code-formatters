@@ -33,6 +33,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## General Purpose
 
 * [Artistic Styler](http://astyle.sourceforge.net/) - Source code indenter, formatter, and beautifier for the C, C++, C# and Java programming languages.
+* [Prettier](https://prettier.io/) - An opinionated code formatter for JavaScript, Flow, TypeScript, Vue, JSON, CSS, Less, SCSS, GraphQL, and Markdown
 * [Uncrustify](http://uncrustify.sourceforge.net/) - Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - Automatic formatting for C, C++, Java, JavaScript, ObjectiveC and Protobuf.
 
