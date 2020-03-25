@@ -76,7 +76,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### JavaScript
 
-* [JsDecoder](http://bdgn.net/JsDecoder.html) -  Deobfuscator for JavaScript
+* [beautifier.io](https://beautifier.io/) -  Online JavaScript Beautifier
 
 #### JSP
 
