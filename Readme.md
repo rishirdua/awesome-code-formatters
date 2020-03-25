@@ -102,6 +102,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 #### Python
 
+* [black](https://github.com/ambv/black) - The uncompromising Python code formatter 
 * [pindent](http://svn.python.org/projects/python/trunk/Tools/scripts/pindent.py) - Adds comments when blocks are closed, or can properly indent code if comments are put in.
 * [yapf](https://github.com/google/yapf) - A formatter for Python files.
 
