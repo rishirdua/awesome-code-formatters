@@ -34,6 +34,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Artistic Styler](http://astyle.sourceforge.net/) - Source code indenter, formatter, and beautifier for the C, C++, C# and Java programming languages.
 * [Uncrustify](http://uncrustify.sourceforge.net/) - Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+* [Unibeautify](https://unibeautify.com/) - Universal code beautifier with a GitHub app. Supports HTML, CSS, JavaScript, TypeScript, JSX, Vue, C++, Go, Objective-C, Java, Python, PHP, GraphQL, Markdown, and more.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - Automatic formatting for C, C++, Java, JavaScript, ObjectiveC and Protobuf.
 
 ## Language Specific
