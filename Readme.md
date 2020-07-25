@@ -25,6 +25,7 @@ If you want to contribute to this list (please do), send me a pull request or co
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [SQL](#sql)
   - [VBS](#vbs)
   - [XML](#xml)
 
@@ -114,6 +115,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### Shell
 
 * [ShellIndent](http://www.bolthole.com/AWK.html) - Indent formatting program for .sh scripts.
+
+#### SQL
+
+* [format-sql](https://github.com/paetzke/format-sql) - Makes your SQL readable.
+* [sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module that provides support for parsing, splitting and formatting SQL statements.
 
 #### VBS
 
