@@ -114,6 +114,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### Shell
 
 * [ShellIndent](http://www.bolthole.com/AWK.html) - Indent formatting program for .sh scripts.
+* [shfmt](https://github.com/mvdan/sh) - Shell script formatter with support
+  for POSIX, Bash, and mksh.
 
 #### VBS
 
