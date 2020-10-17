@@ -25,6 +25,7 @@ If you want to contribute to this list (please do), send me a pull request or co
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [VBS](#vbs)
   - [XML](#xml)
 
@@ -114,6 +115,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 #### Shell
 
 * [ShellIndent](http://www.bolthole.com/AWK.html) - Indent formatting program for .sh scripts.
+
+#### Swift
+
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code.
 
 #### VBS
 
