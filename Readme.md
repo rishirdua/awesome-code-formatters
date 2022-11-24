@@ -38,6 +38,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Uncrustify](http://uncrustify.sourceforge.net/) - Beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 * [Unibeautify](https://unibeautify.com/) - Universal code beautifier with a GitHub app. Supports HTML, CSS, JavaScript, TypeScript, JSX, Vue, C++, Go, Objective-C, Java, Python, PHP, GraphQL, Markdown, and more.
 * [clang-format](http://clang.llvm.org/docs/ClangFormat.html) - Automatic formatting for C, C++, Java, JavaScript, ObjectiveC and Protobuf.
+* [Universal Code Formatter](https://github.com/berinaniesh/ucf.git) - A simple command line utility to identify the file extension of the file, call an appropriate code formatter with necessary arguments to edit the file in place. 
 
 ## Language Specific
 
